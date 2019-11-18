@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloToServerless", "SayHelloToServerless\SayHelloToServerless.csproj", "{056FFD49-E0B1-45D4-B9BF-6BE8E4CDCC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayHelloWorldTimely", "SayHelloWorldTimely\SayHelloWorldTimely.csproj", "{118CCE09-05A2-401D-A97E-2784FB5BF376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056FFD49-E0B1-45D4-B9BF-6BE8E4CDCC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056FFD49-E0B1-45D4-B9BF-6BE8E4CDCC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056FFD49-E0B1-45D4-B9BF-6BE8E4CDCC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056FFD49-E0B1-45D4-B9BF-6BE8E4CDCC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118CCE09-05A2-401D-A97E-2784FB5BF376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118CCE09-05A2-401D-A97E-2784FB5BF376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118CCE09-05A2-401D-A97E-2784FB5BF376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118CCE09-05A2-401D-A97E-2784FB5BF376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244C7EEF-5F7D-4E1F-95A2-3F24F0FAA48E}
+	EndGlobalSection
+EndGlobal
